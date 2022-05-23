@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## ARES Exoskelegon
 
-You can use the [editor on GitHub](https://github.com/exorob-ares/exorob-ares.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ARES is a project that proposes the development and distribution of a lower limb robotic exoskeleton. The ARES exoskeleton was born with the purpose of giving users with various disabilities the opportunity to regain their mobility, improve their quality of life and increase their autonomy. Specifically, the exoskeleton has been designed to be able to fit a patient's leg in order to allow and facilitate movement.
 
 ### Markdown
 
