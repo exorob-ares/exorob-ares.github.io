@@ -2,6 +2,8 @@
 
 ARES is a project that proposes the development and distribution of a lower limb robotic exoskeleton. The ARES exoskeleton was born with the purpose of giving users with various disabilities the opportunity to regain their mobility, improve their quality of life and increase their autonomy. Specifically, the exoskeleton has been designed to be able to fit a patient's leg in order to allow and facilitate movement.
 
+![ARES Prototype](image_2022-05-19_10-23-59.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
