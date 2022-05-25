@@ -8,7 +8,7 @@ The ARES exoskeleton can be adjusted to different anthropometric measurements th
 
 The ARES exoskeleton is open source and it includes the guidance and control using ROS (Robot Operating System).
 
-![ARES Prototype](image_2022-05-19_10-23-59.png)
+![ARES Prototype](exoares1.mp4)
 
 ### Support or Contact
 
