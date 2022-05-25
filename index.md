@@ -4,7 +4,7 @@ ARES is a project that proposes the development and distribution of a lower limb
 
 ### First ARES Exoskeleton prototype
 
-The ARES exoskeleton can be adjusted to different anthropometric measurements thanks to its adaptable design. It presents an extension angle of the knee joint that is adjustable, allowing the full range of movements of the knee joint and being able to limit it depending on the characteristics of the patient. 
+The ARES exoskeleton can be adjusted to different users thanks to its adaptable design. It presents an extension angle of the knee joint that is adjustable, allowing the full range of movements of the knee joint and being able to limit it depending on the characteristics of the patient. 
 
 The ARES exoskeleton is open source and it includes the guidance and control using ROS (Robot Operating System).
 
