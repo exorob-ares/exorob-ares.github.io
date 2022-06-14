@@ -11,6 +11,8 @@ The ARES exoskeleton is open source and it includes the guidance and control usi
 ![ARES Prototype](image_2022-05-19_10-23-59.png)
 
 [![Ares design](https://img.youtube.com/vi/AHoxpX8Q-HI/0.jpg)](https://youtu.be/AHoxpX8Q-HI)
+[![Ares test](https://img.youtube.com/vi/uAzcis04inw/0.jpg)](https://youtu.be/uAzcis04inw)
+
 
 ### Support or Contact
 
