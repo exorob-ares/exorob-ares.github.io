@@ -1,3 +1,5 @@
+{% include youtube.html id=AHoxpX8Q-HI %}
+
 ## ARES Exoskeleton
 
 ARES is a project that proposes the development and distribution of a lower limb robotic exoskeleton. The ARES exoskeleton was born with the purpose of giving users with various disabilities the opportunity to regain their mobility, improve their quality of life and increase their autonomy. Specifically, the exoskeleton has been designed to be able to fit a patient's leg in order to allow and facilitate movement.
@@ -10,12 +12,7 @@ The ARES exoskeleton is open source and it includes the guidance and control usi
 
 ![ARES Prototype](image_2022-05-19_10-23-59.png)
 
-<iframe src="https://youtu.be/AHoxpX8Q-HI" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Support or Contact
 
