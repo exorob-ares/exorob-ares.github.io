@@ -10,6 +10,14 @@ The ARES exoskeleton is open source and it includes the guidance and control usi
 
 ![ARES Prototype](image_2022-05-19_10-23-59.png)
 
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/AHoxpX8Q-HI" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/AHoxpX8Q-HI"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 ### Support or Contact
 
 Check out our github [github](https://github.com/exorob-ares) or [contact support](exorob.ares@gmail.com) and we’ll help you sort it out.
